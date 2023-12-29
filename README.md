@@ -1,0 +1,2 @@
+# configurator-docs
+Configurator documentation
