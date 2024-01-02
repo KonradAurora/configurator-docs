@@ -41,6 +41,9 @@ extra:
       link: https://www.linkedin.com/company/aurora-creation
 
 markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
